@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Proxypro2012
 - 👀 I’m interested in ... anything techonology related
-- 🌱 I’m currently learning ... python, scratch, and game development in Unreal Engine
+- 🌱 I’m currently learning ... python and scratch. Working on getting my app (RollMate) out into schools.
 - 💞️ I’m looking to collaborate on ... nothing at the moment. But mostly scratch games.
 - 📫 How to reach me ... my username on scratch is @-Refracted- . Message me there.
 - 😄 Pronouns: ... He/Him
