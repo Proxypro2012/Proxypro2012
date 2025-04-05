@@ -1,3 +1,5 @@
+
+**WELCOME TO MY GITHUB PROFILE!**
 - 👋 Hi, I’m @Proxypro2012
 - 👀 I’m interested in ... anything techonology related
 - 🌱 I’m currently learning ... python and scratch. Working on getting my app (RollMate) out into schools.
