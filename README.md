@@ -14,5 +14,5 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Proxypro2012&theme=tokyonight" alt="mystreak"/>
 
 
-![Snake animation](https://github.com/Proxypro2012/github-readme/blob/output/github-contribution-snake.svg)
+
 
