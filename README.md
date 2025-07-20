@@ -3,6 +3,7 @@
 ---
 I'm a 7th grader and 12 years old.
 Currently working on developing mobile applications for my school and district to use. 
+
 Projects:
 - Arrivo
 - RollMate
