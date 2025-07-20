@@ -2,7 +2,10 @@
 **WELCOME TO MY GITHUB PROFILE!**
 ---
 I'm a 7th grader and 12 years old.
-Currently Working on a full stack cross-platform online business management application using python, flask, and streamlit.
+Currently working on developing mobile applications for my school and district to use. 
+Project:
+- Arrivo
+- RollMate
 
 Email: kabir.tiwari@outlook.com
 Scratch: -Refracted-
