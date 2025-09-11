@@ -7,6 +7,8 @@ Currently working on developing mobile applications for my school and district t
 Projects:
 - Arrivo
 - RollMate
+- Silver Support
+- DocuFlow
 
 Email: kabir.tiwari@outlook.com
 Scratch: -Refracted-
