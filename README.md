@@ -1,26 +1,38 @@
+# 👋 Hi, I'm Proxypro2012!
 
-**WELCOME TO MY GITHUB PROFILE!**
+I'm a **student developer** passionate about building creative apps and exploring new technologies.  
+Currently, I'm diving into web and mobile development, always learning and experimenting with new ideas.
+
+## 🚀 Skills & Tools
+
+- **Languages & Frameworks:**  
+  Python | Flask | Swift | Flutter | HTML | CSS | Firebase
+
+## 🛠️ Projects I'm Proud Of
+
+- [Silver Support](https://github.com/Proxypro2012/silver-support-website): Making a positive impact for seniors  
+- [Arrivo](#): Innovative app (details coming soon!)
+- [StreamlitWebsites](https://github.com/Proxypro2012/StreamlitWebsites): Web apps, dashboards, and experiments  
+- [Chromium-Proxy](https://github.com/Proxypro2012/Chromium-Proxy): Proxy tools for browsers  
+- [techlink-webapp](https://github.com/nishadbasrur/techlink-webapp): Collaborator on a tech resource hub
+
+## 🎯 Interests
+
+- Running track 🏃‍♂️
+- Artificial Intelligence 🤖
+- Web development 🌐
+- Gaming 🎮
+
+## 🌱 Currently Learning
+
+- Advanced Flutter and Swift for mobile apps
+- Cool AI techniques  
+- Building scalable web backends
+
+## 📫 Let's Connect!
+
+Feel free to check out my repositories, star your favorites, or reach out if you want to collaborate!
+
 ---
-I'm a 7th grader and 12 years old.
-Currently working on developing mobile applications for my school and district to use. 
 
-Projects:
-- Arrivo
-- RollMate
-- Silver Support
-- DocuFlow
-
-Email: kabir.tiwari@outlook.com
-Scratch: -Refracted-
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Proxypro2012&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Proxypro2012&theme=tokyonight" alt="mystreak"/>
-
-
-
-
+> “Code is like running track: every day is a chance to go further and get better.”
