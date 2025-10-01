@@ -5,7 +5,7 @@ Currently, I'm diving into web and mobile development, always learning and exper
 
 ## 🚀 Skills & Tools
 
-- **Languages & Frameworks:**  
+- **Languages & Frameworks Currently Learning:**  
   Python | Flask | Swift | Flutter | HTML | CSS | Firebase
 
 ## 🛠️ Projects I'm Proud Of
