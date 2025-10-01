@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Proxypro2012!
 
-I'm a **student developer** passionate about building creative apps and exploring new technologies.  
+I'm an 8th grade **student developer** passionate about building creative apps and exploring new technologies.  
 Currently, I'm diving into web and mobile development, always learning and experimenting with new ideas.
 
 ## 🚀 Skills & Tools
