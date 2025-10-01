@@ -32,7 +32,3 @@ Currently, I'm diving into web and mobile development, always learning and exper
 ## 📫 Let's Connect!
 
 Feel free to check out my repositories, star your favorites, or reach out if you want to collaborate!
-
----
-
-> “Code is like running track: every day is a chance to go further and get better.”
